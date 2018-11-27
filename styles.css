@@ -1,7 +1,25 @@
-img {
+.width {
     width: 50px;
     width: 50%;
 }   
 body {
     background-color:gold;
+} 
+p {
+    font-family: 'Sedgwick Ave', cursive;
+}
+.movie {
+    color:purple;
+} 
+h1 {
+    font-family: 'Abril Fatface', cursive;
+}    
+.videogame {
+    color:red;
+} 
+.rapper {
+    color:grey;
+} 
+.tv {
+    color:green;
 }    
